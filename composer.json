@@ -1,0 +1,13 @@
+{
+  "name": "nicholasmole/nf_xtrafield_fixer",
+  "version": "1.0.0",
+  "description": "Fix an issue where {metakey} values appear.",
+  "type": "wordpress-plugin",
+  "authors": [{
+      "name": "Nicholas Mole",
+      "email": "nmole065@g.rwu.com"
+  }],
+  "require": {
+      "php": ">=7.1"
+  }
+}
